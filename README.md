@@ -1,6 +1,6 @@
 
 # BYS
-A simple Youtube Scraper meda with Bun.js 
+A simple Youtube Scraper made with Bun.js 
 
 # Usage
 
